@@ -1,0 +1,13 @@
+.itemCard{
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 1rem;
+}
+.itemCard p{
+  text-align: justify;
+}
+.itemImg{
+  height: 10rem;
+  width: 100%;
+  background: yellow;
+}
