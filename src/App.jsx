@@ -1,5 +1,4 @@
 import Header from './header'
-import './App.css'
 import ItemCard from './itemCard'
 
 function App() {
